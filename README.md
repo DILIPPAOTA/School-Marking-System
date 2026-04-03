@@ -8,7 +8,7 @@
 
 ### 🚀 कैसे देखें:
 आप इस डेमो को नीचे दिए गए लिंक पर लाइव देख सकते हैं:
-[यहाँ क्लिक करें](https://streamlit.app)
+[यहाँ क्लिक करें]([https://streamlit.app](https://school-marking-system-trialver2026.streamlit.app/))
 
 ---
 *Developed by: DILIPPAOTA*
